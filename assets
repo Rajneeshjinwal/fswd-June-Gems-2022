@@ -1,0 +1,20 @@
+<html>
+
+<head>
+     <!-- head has only five tags -->
+	 <!-- title, meta , style,link,script -->
+	 <title>web44 first home page <title>
+	 </head>
+	 
+	 <body>
+	      <img src=" ./asssets/logo.png />
+		  <a href="./index.html">Home</a>
+		  <a href="./employee.html">Employee</a>
+		  <a href="./about.html">About</a>
+		  <a herf="./service.html">Service</a>
+		  <a herf ="./ contact.html">Contact</a>
+		  
+		  <h1> About US Page</h1>
+		  </body>
+		  
+		  </html>
